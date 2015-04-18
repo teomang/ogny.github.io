@@ -1,5 +1,5 @@
 ---
-title: This is my title
+title: Bu ilk yazim
 ---
 
 henuz index nasil olusturulur, hicbir fikrim yok...
