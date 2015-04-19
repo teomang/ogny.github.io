@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Ilk Yazi"
+modified:
+categories: 
+excerpt:
+tags: []
+image:
+  feature:
+date: 2015-04-20T01:44:12+03:00
+---
+
+Günlüğün ilk yazısı aklımda bu aralar dönüp duran şu kelimeler olsun;
+
+* mojito
+* muffin
+* bingo pijama
+
+Günlüğü yayına aldım. Daha önce static site generatör'larla çalıştığım için
+(Octopress ve Pelican), benim için Jekyll-Github pages kullanmanın nispeten
+kolay olduğunu söyleyebilirim.
