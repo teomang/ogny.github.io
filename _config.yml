@@ -1,9 +1,8 @@
 # Site wide configuration
 
 title:            Anlatabildiklerim
-#title:            Site Title
 locale:           tr_TR
-url:              http://gunluk.orkungunay.com
+#url:              http://gunluk.orkungunay.com
 
 
 # Jekyll configuration
