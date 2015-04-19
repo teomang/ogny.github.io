@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ilk Yazi"
+title: "İlk Yazı"
 modified:
 categories: 
 excerpt:
