@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Anlatabildiklerim</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2015-04-20T17:26:13+03:00</updated>
+<id>/</id>
+<author>
+  <name>Orkun Gunay</name>
+  <uri>/</uri>
+  <email>orkungunayx@gmail.com</email>
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[İlk Yazı]]></title>
+  <link rel="alternate" type="text/html" href="/ilk-yazi/" />
+  <id>/ilk-yazi</id>
+  <published>2015-04-20T01:44:12+03:00</published>
+  <updated>2015-04-20T01:44:12+03:00</updated>
+  <author>
+    <name>Orkun Gunay</name>
+    <uri></uri>
+    <email>orkungunayx@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Günlüğün ilk yazısı aklımda bu aralar dönüp duran şu kelimeler olsun;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;mojito&lt;/li&gt;
+  &lt;li&gt;muffin&lt;/li&gt;
+  &lt;li&gt;bingo pijama&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Günlüğü yayına aldım. Daha önce static site generatör’larla çalıştığım için
+(Octopress ve Pelican), benim için Jekyll-Github pages kullanmanın nispeten
+kolay olduğunu söyleyebilirim.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/ilk-yazi/&quot;&gt;İlk Yazı&lt;/a&gt; was originally published by Orkun Gunay at &lt;a href=&quot;&quot;&gt;Anlatabildiklerim&lt;/a&gt; on April 20, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
