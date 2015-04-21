@@ -10,7 +10,7 @@ image:
 date: 2015-04-21T10:51:02+03:00
 ---
 
-Kaçınılamaması gereken bir soru bu; bir şeyler uğruna çabalarken, başkalarına
+Kaçınılmaması gereken bir soru bu; bir şeyler uğruna çabalarken, başkalarına
 baktığında, varmak istediğin noktaya eriştiklerini görürsün. tabi bu durumda
 telafi mekanizması çalışmaya başlar, açıklamalar, avunmalar... bilirsin ki
 bunlar gerçekliği anlamlandırmaya yarar, değiştirmeye değil... 
