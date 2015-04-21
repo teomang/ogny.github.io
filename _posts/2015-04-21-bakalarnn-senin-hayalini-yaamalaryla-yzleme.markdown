@@ -10,12 +10,11 @@ image:
 date: 2015-04-21T10:51:02+03:00
 ---
 
-  Kaçınılamaması gereken bir soru bu; bir şeyler uğruna çabalarken, başkalarına
+Kaçınılamaması gereken bir soru bu; bir şeyler uğruna çabalarken, başkalarına
 baktığında, varmak istediğin noktaya eriştiklerini görürsün. tabi bu durumda
 telafi mekanizması çalışmaya başlar, açıklamalar, avunmalar... bilirsin ki
 bunlar gerçekliği anlamlandırmaya yarar, değiştirmeye değil... 
-
-  ölümlü ve sınırlı olmak, belki hiç elde edemeyeceğin bir hayatın gözünün önünde
+ölümlü ve sınırlı olmak, belki hiç elde edemeyeceğin bir hayatın gözünün önünde
 yaşandığını görmek, derinleşme olanağını sağlar. işte bu iyi; anlamlandırmanın
 ötesinde, gerçeği pozitif olarak yeniden kurgulamak için derinleşmek...
 
