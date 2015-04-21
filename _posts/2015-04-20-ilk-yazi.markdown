@@ -2,7 +2,8 @@
 layout: post
 title: "İlk Yazı"
 modified:
-categories: 
+categories: kisisel
+comments: true
 excerpt:
 tags: []
 image:

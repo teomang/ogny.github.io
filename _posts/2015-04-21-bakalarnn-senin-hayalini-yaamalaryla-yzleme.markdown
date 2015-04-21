@@ -2,7 +2,8 @@
 layout: post
 title: "Başkalarının Senin Hayalini Yaşamalarıyla Yüzleşme"
 modified:
-categories: 
+categories: kisisel
+comments: true
 excerpt:
 tags: []
 image:
