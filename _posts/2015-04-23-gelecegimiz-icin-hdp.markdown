@@ -13,13 +13,13 @@ ilk kez kendilerine sunulan seçeneklerden biri düzeni tahkim etmek dışında,
 
 Ortadoğu Halklarının Geleceği
 ---
-Kürtlerin devletsiz bırakılmaları, onlarin bulunduklari her coğrafyada muhalif
-olmalarını sağladı, bu da onları her daim değişime açık kıldı. Güçlü olduğu
-bölgelerde İsviçre Kantonal örgütlenme modelini uygulaması onların Ortadoğu'da
-yaşayan bir Avrupalı olduklarının göstergesi.
+Kürtlerin devletsiz bırakılmaları, bulunduklari her coğrafyada muhalif
+olmalarına sebep oldu, bu da onları her daim değişime açık kıldı. Güçlü olduğu
+bölgelerde İsviçre Kantonal örgütlenme modelini uygulamayı secmeleri, onlarin
+Ortadoğu'da yaşayan bir Avrupalı olduklarının göstergesi.
 Madalyonun diğer yüzü de var, Ortadoğu halklarının hüsran ve umutsuzluğu
 İŞİD'de vücut bulan öfkenin çekirdeğini oluşturuyor. Ortadoğu'nun geleceğini
-bu iki yükselen gücün mücadelesi belirliyor Kobanı, Şengal ve Rojava
+bu iki yükselen gücün mücadelesi belirliyor Kobani, Şengal ve Rojava
 kantonlarının İŞİD'e karşı savunulmasında dünya ölçeğinde bir dayanışma duygusu
 oluştu. Bu mücadelenin Ortadoğu halkarını taraf olmaya mecbur bırakacağı
 durumda; Kürt hareketiyle birlikte değişimlerini başlatmasını umuyoruz.
@@ -58,7 +58,7 @@ HDP'nin kuruculuğu
 Genel seçimler %10 barajından ötürü dışlayıcı, sistemin ana unsurlarını tahkim
 edici bir karaktere sahip. Muhalefet açısından bunun karşılığı şu; temsil
 edilme ihtimaliniz yoksa, yenilenmez, yeni fikirler üretmez, projeler
-geliştirmezsiniz. Kurt hareketi geçmiş yirmi yılda bütün engellemelere rağmen
+geliştirmezsiniz. Kürt hareketi geçmiş yirmi yılda bütün engellemelere rağmen
 mecliste temsil edildi, yerel yönetimlerde de yenilenme ve proje üretme
 süreçlerini başarıyla yürüttü. Bugün ilk defa Türkiye'deki muhalifleri de
 kapsayarak bir parti bünyesinde siyasi temsiliyet arıyor. HDP'nin kurucu rolü
@@ -66,7 +66,7 @@ oynaması Türkiye'deki dışlayıcı sistemden muzdarip olan tüm kesimler aç�
 büyük bir kazanımdır. Yıllardır sistem partilerinin arasında sıkışıp kalan bu
 insanlar ilk kez bir alternatifin varlığıyla kendi çabalarının gelecekleri için
 olumlu bir etkisinin olacağına inanıyorlar. HDP'nin ana gövdesini oluşturan
-Kurt hareketinin bölgedeki belediyecilik ve kantonal örgütlenme deneyimleri,
+Kürt hareketinin bölgedeki belediyecilik ve kantonal örgütlenme deneyimleri,
 Türkiye'de demokratik yaşamın örgütlenmesinde HDP'nin öncü olabileceğinin
 göstergeleridir. Yaşamın bir çok alanında; farklı kimliklerin kendilerini ifade
 etmesi, çevre ve ekoloji, kadın ve diğer cinsiyetlerin küçümsenmesi, bilim ve
