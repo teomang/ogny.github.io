@@ -2,7 +2,7 @@
 layout: post
 title: "Daha Efektif Bir Günlük"
 modified:
-categories: 
+categories: kisisel
 excerpt:
 tags: []
 image:
