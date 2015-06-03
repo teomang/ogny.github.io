@@ -20,9 +20,11 @@ etkilerinin olacağını düşünürsek, o seçim bu seçimdir.
 
   Sandıkta verilen oyların çalınmamasını sağlamanın yolu biraz matematik bilgisi
 ve dikkati vermekten geçiyor. muşahit olacağınız sandığa ysk'nın göndereceği;
+
 * zarf sayısını
 * pusula sayısını
 * kayıtlı seçmen sayısını
+
 bildiğinizde, sayım bittiğinde şunu check edeceksiniz;
 
 * zarf sayısı ile kayıtlı seçmen sayısı örtüşecek
