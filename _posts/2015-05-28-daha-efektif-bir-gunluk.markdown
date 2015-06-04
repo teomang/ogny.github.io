@@ -3,6 +3,7 @@ layout: post
 title: "Daha Efektif Bir Günlük"
 modified:
 categories: kisisel
+comments: true
 excerpt:
 tags: [comp]
 image:

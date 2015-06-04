@@ -3,6 +3,7 @@ layout: post
 title: "Sandık Müşahitliği Eğitim Notları"
 modified:
 categories: politika
+comments: true
 excerpt:
 tags: [kisisel]
 image:
