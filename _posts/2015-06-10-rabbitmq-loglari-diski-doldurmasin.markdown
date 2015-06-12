@@ -60,3 +60,11 @@ cat << EOF >> /etc/logrotate.d/rabbitmq-server
 }
 EOF
 ~~~
+
+* Tum rabbitmq log'larini kapatabiliriz. bunun icin;
+
+~~~
+vi /etc/rabbitmq/rabbitmq.config
+# heartbeat'in altina ekleyebilirsiniz.
+{log_levels,[{channel,none}]}
+~~~

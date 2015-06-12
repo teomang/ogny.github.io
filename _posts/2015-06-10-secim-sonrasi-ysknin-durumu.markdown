@@ -45,4 +45,23 @@ ve Bilgi Edinme Hakkını engellemekte,  Bilgi Verme Yükümlülüğünü yerine
 getirmemektedir. YSK'nın bu durumunu düzeltmesiyle ilgili nereye başvuruda
 bulunabiliriz? Yardımlarınızı rica ediyorum.
 
+
+**Guncelleme:** Istanbul Barosu'ndan da herhangi bir yanıt alamadım. Bugün (12 haziran cuma)  
+[Bilgi Edinme](http://www.ysk.gov.tr/ysk/ic_Sayfa_yeni_BilgiEdinmeMain.html) 
+başlıklı bölümdeki , "Gerçek Kişiler – Online Başvuru" sayfası acildi.
+Aşağıdaki metni gönderdim;
+YSK web sitesinde Sandık Ölçekli Seçim Sonuçları bölümüne giriş yapıldığında
+sorgulama yapılamamakta, adresine yönlenilmekte ve bu sayfada aşağıdaki ibare
+çıkmaktadır: 07 Haziran 2015 - 25. Dönem Milletvekili Genel Seçimi sonuçlanana
+kadar Sandık Sonuç Paylaşım Sistemi geçici olarak devre dışı bırakılmıştır.
+
+Seçimin üzerinden 4 iş günü geçmiş olmasına rağmen, sandıklar sayım sonuçları
+resmen duyurulmamıştır, ne zaman duyurulacağıyla ilgili herhangi bir bilgi
+bulunmamaktadır.
+
+YSK 07 Haziran 2015 - 25. Dönem Milletvekili Genel Seçimi sandık ölçekli
+sonuçların ne zaman açıklanacağıyla ilgili bilgi vermenizi rica ediyorum.
+
 İyi çalışmalar
+
+Bu talebin takip no.su: 19995
