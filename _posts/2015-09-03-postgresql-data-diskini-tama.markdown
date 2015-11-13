@@ -31,6 +31,14 @@ chown  postgres: /home/pgsql
 rsync -ah  --progress /var/lib/pgsql/ /home/pgsql/
 ~~~
 
+* Hizli olunmasi gereken durumlarda, tum veriyi tasimak iyerine ilgili db'yi
+  export/import edip baslatmak daha uygun bir cozum.
+
+~~~
+PGUSER=postgres pg_dump -h "sunucu_ip" -U "veri_tabani_sahibi" "veri_tabani_adi" > db.out
+psql dbname < db.out
+~~~
+
 * postgres kullanıcısına ait ev dizini değiştirilir. 
 
 ~~~

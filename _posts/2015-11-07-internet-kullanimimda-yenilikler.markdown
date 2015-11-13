@@ -2,7 +2,7 @@
 layout: post
 title: "İnternet Kullanımımda Yenilikler"
 modified:
-categories: posts
+categories: kisisel
 excerpt:
 tags: [internet, sosyal medya]
 image:
@@ -42,5 +42,9 @@ Toparlarsam, servisleri kullanımımı şu şekilde düzenleme kararı aldım;
 * Task manager olarak evernote.
 * bundle/ttrss ile internet takibi
 * argüman'da fikir tartışmaları
-* Günün sonunda, o güne dair gelişmeler hakkında bir blog yazısı.
+
+<del>* Günün sonunda, o güne dair gelişmeler hakkında bir blog yazısı.</del>
+Günlüğümü zamana bağlı kılmak istemiyorum. Burayı tamamen keyfi olarak
+güncelleyeceğim.
+
 Bunu deneyeceğim.
