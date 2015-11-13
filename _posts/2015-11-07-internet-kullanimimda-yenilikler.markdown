@@ -42,9 +42,9 @@ Toparlarsam, servisleri kullanımımı şu şekilde düzenleme kararı aldım;
 * Task manager olarak evernote.
 * bundle/ttrss ile internet takibi
 * argüman'da fikir tartışmaları
+* Podcast'ler için Rat Poison Android uygulaması
 
-<del>* Günün sonunda, o güne dair gelişmeler hakkında bir blog yazısı.</del>
+<del>Günün sonunda, o güne dair gelişmeler hakkında bir blog yazısı.</del>
 Günlüğümü zamana bağlı kılmak istemiyorum. Burayı tamamen keyfi olarak
 güncelleyeceğim.
 
-Bunu deneyeceğim.
