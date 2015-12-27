@@ -21,20 +21,14 @@ Test edilen ortam: Centos 6.7 postgresql-9.4.1
   başlatmazsan hızlıca eski çalışan yerden geri başlatabilirsin.
 
 * * * 
-* Çalışan postgresql servisini kapat. veri eşleştirmesine başla.
+* veri eşleştirmesine başla
 
 ~~~
-su - postgres 
-pg_ctl -D /var/lib/pgsql/9.4/data -m immediate stop
-vi /var/lib/pgsql/9.4/data/postgresql.conf
-data_directory = '/home/pgsql/9.4/data'
-exit 
-mkdir -p /home/pgsql/9.4/data
-chown  postgres: /home/pgsql/ -R
 rsync -ah --exclude='base/pgsql_tmp' /var/lib/pgsql/9.4/data/ /home/pgsql/9.4/data/
 ~~~
 
 * Yeni bir screen'de postgres kullanıcısına ait ev dizinini değiştir
+
 ~~~
 cp /etc/passwd{,.org}
 vi /etc/passwd
@@ -51,9 +45,25 @@ source ~/.bash_profile
 echo $PGDATA
 ~~~
 
+* Başlattığın veri eşleştirmesi bittiyse, çalışan postgresql servisini kapat.
+  veri eşleştirmesini tekrar yap.
+
+~~~
+su - postgres 
+pg_ctl -D /var/lib/pgsql/9.4/data -m immediate stop
+vi /var/lib/pgsql/9.4/data/postgresql.conf
+data_directory = '/home/pgsql/9.4/data'
+exit 
+mkdir -p /home/pgsql/9.4/data
+chown  postgres: /home/pgsql/ -R
+rsync -ah --exclude='base/pgsql_tmp' /var/lib/pgsql/9.4/data/ /home/pgsql/9.4/data/
+~~~
+
 * Eşleştirme bittiğinde postgre'yi başlat;
 
 ~~~
+su - postgres
+pwd
 pg_ctl -D /home/pgsql/9.4/data/ -l logfile -w start
 pg_ctl status -m fast
 ps -efd | grep postgres
