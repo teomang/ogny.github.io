@@ -1,6 +1,6 @@
 ---
 layout: post
-title: sistemden kopus
+title: Sistemden Kopuş
 categories: kisisel
 comments: true
 ---
