@@ -4,7 +4,6 @@ title: "Seçim Sonrası YSK'nin Durumu"
 modified:
 categories: politik 
 comments: true
-excerpt:
 tags: [devlet]
 image:
   feature:

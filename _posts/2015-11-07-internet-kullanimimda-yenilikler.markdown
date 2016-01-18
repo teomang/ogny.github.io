@@ -3,7 +3,6 @@ layout: post
 title: "İnternet Kullanımımda Yenilikler"
 modified:
 categories: kisisel
-excerpt:
 tags: [internet, sosyal medya]
 image:
   feature:

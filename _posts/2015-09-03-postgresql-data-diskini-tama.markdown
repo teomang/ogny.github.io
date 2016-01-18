@@ -3,7 +3,6 @@ layout: post
 title: "Postgresql Veri Diskini Taşıma"
 modified:
 categories: teknik
-excerpt:
 tags: [pg]
 image:
   feature:

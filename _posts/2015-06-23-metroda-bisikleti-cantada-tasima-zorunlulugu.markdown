@@ -3,7 +3,6 @@ layout: post
 title: "Metroda Bisikleti Çantada Taşıma Zorunluluğu"
 modified:
 categories: kisisel
-excerpt:
 tags: []
 image:
   feature:

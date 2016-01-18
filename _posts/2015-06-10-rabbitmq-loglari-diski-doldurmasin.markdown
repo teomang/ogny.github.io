@@ -3,7 +3,6 @@ layout: post
 title: "Rabbitmq Log'lari Diski Doldurmasin"
 modified:
 categories: sistem
-excerpt:
 tags: [rabbitmq]
 image:
   feature:

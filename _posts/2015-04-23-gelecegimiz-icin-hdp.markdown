@@ -4,7 +4,6 @@ title: "Gelecegimiz Icin HDP"
 modified:
 categories: politika
 comments: true
-excerpt:
 tags: [hdp,secimler]
 date: 2015-04-23T14:13:38+03:00
 ---

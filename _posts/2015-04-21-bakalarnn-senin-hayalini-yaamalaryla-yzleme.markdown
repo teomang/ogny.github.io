@@ -4,7 +4,6 @@ title: "Başkalarının Senin Hayalini Yaşamalarıyla Yüzleşme"
 modified:
 categories: kisisel
 comments: true
-excerpt:
 tags: []
 image:
   feature:

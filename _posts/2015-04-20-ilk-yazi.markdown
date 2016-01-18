@@ -4,7 +4,6 @@ title: "İlk Yazı"
 modified:
 categories: kisisel
 comments: true
-excerpt:
 tags: []
 image:
   feature:
