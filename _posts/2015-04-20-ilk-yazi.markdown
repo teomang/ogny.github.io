@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt:
+excerpt: "test"
 title: "İlk Yazı"
 modified:
 categories: kisisel
