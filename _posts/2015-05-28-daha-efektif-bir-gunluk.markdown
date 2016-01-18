@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt:
 title: "Daha Efektif Bir Günlük"
 modified:
 categories: kisisel

@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt:
 title: Sistemden Kopuş
 categories: kisisel
 comments: true

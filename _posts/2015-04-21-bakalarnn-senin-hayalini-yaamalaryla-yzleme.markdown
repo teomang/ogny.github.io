@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt:
 title: "Başkalarının Senin Hayalini Yaşamalarıyla Yüzleşme"
 modified:
 categories: kisisel

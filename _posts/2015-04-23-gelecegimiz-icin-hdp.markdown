@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt:
 title: "Gelecegimiz Icin HDP"
 modified:
 categories: politika

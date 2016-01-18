@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt:
 title: "Postgresql Veri Diskini Taşıma"
 modified:
 categories: teknik

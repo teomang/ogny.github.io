@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt:
 title: "İnternet Kullanımımda Yenilikler"
 modified:
 categories: kisisel

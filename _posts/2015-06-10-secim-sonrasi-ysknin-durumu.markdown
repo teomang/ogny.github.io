@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt:
 title: "Seçim Sonrası YSK'nin Durumu"
 modified:
 categories: politik 

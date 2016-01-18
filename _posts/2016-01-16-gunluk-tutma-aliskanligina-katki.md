@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt:
 title: Günlük tutma alışkanlığına katkı
 categories: kisisel
 comments: true

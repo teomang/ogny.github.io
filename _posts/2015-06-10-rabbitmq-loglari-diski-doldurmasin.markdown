@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt:
 title: "Rabbitmq Log'lari Diski Doldurmasin"
 modified:
 categories: sistem

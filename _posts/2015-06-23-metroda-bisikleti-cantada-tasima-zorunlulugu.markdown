@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt:
 title: "Metroda Bisikleti Çantada Taşıma Zorunluluğu"
 modified:
 categories: kisisel

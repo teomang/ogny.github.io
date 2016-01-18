@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt:
 title: "Sandık Müşahitliği Eğitim Notları"
 modified:
 categories: politika
