@@ -65,6 +65,19 @@ cat << EOF >> /etc/logrotate.d/rabbitmq-server
 EOF
 ```
 
+* log dosyalari sildiniz ancak `df -h` ciktisinda halen disk dolu gorunuyor. Bu
+  durum inode'lardan (dugumler) kaynaklaniyor. Silinen dosyalari bulalim; log
+  dosyalarini truncate edelim. Ornek olarak;
+
+```
+find /proc/*/fd -ls 2> /dev/null | grep '(deleted)'
+150797741    0 l-wx------   1 root     root           64 Feb  9 17:18 /proc/6102/fd/1 -> /var/log/rabbitmq/startup_log.1\ (deleted)
+150797745    0 l-wx------   1 root     root           64 Feb  9 17:18 /proc/6104/fd/1 -> /var/log/rabbitmq/startup_log\ (deleted)
+
+:>/proc/6102/fd/1
+:>/proc/6104/fd/1
+```
+
 * Tum rabbitmq log'larini kapatabiliriz. bunun icin;
 
 ```
