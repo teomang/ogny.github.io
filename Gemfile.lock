@@ -155,7 +155,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (= 43)
+  github-pages
   jekyll
   jekyll-sitemap
   json
