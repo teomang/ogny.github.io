@@ -42,22 +42,46 @@ mv /etc/cron.daily/logrotate /etc/cron.hourly/
 ```
 crontab -e
 */15 * * * * /usr/sbin/logrotate /etc/logrotate.d/rabbitmq-server
+*/15 * * * * /usr/sbin/logrotate /etc/logrotate.d/rabbitmq-server_1
 ```
 
-* rabbitmq-server dosyasi:
+* rabbitmq-server dosyaları:
 
 ```
 mv /etc/logrotate.d/rabbitmq-server{,.org}
 cat << EOF >> /etc/logrotate.d/rabbitmq-server
-/var/log/rabbitmq/*.log {
-        copytruncate
+/var/log/rabbitmq/startup_log {
+        size 100k
+        create 0644 rabbitmq rabbitmq
         missingok
         rotate 5
-        size 100k
         compress
+        compresscmd /usr/bin/gzip
+        compressext .gz
         delaycompress
         notifempty
         sharedscripts
+        maxage 10
+        postrotate
+            /sbin/service rabbitmq-server rotate-logs > /dev/null
+        endscript
+}
+EOF
+```
+```
+cat << EOF >> /etc/logrotate.d/rabbitmq-server_1
+/var/log/rabbitmq/*.log {
+        size 100k
+        create 0644 rabbitmq rabbitmq
+        missingok
+        rotate 5
+        compress
+        compresscmd /usr/bin/gzip
+        compressext .gz
+        delaycompress
+        notifempty
+        sharedscripts
+        maxage 10
         postrotate
             /sbin/service rabbitmq-server rotate-logs > /dev/null
         endscript
@@ -70,6 +94,7 @@ EOF
   dosyalarini truncate edelim. Ornek olarak;
 
 ```
+lsof | grep deleted
 find /proc/*/fd -ls 2> /dev/null | grep '(deleted)'
 150797741    0 l-wx------   1 root     root           64 Feb  9 17:18 /proc/6102/fd/1 -> /var/log/rabbitmq/startup_log.1\ (deleted)
 150797745    0 l-wx------   1 root     root           64 Feb  9 17:18 /proc/6104/fd/1 -> /var/log/rabbitmq/startup_log\ (deleted)
