@@ -158,6 +158,5 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-sitemap
-  json
   octopress
   pygments.rb
