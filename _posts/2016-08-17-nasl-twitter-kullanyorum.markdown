@@ -53,5 +53,5 @@ bu betiği cronjob'la günde 3 kere toplayacak şekilde düzenledim.
 ```bash
 /usr/bin/env: ruby_executable_hooks: No such file or directory
 ```
-
+[buradan](../../images/t_twitter_ciktisi.png) ekran görüntüsüne ulasabilirsiniz. 
 
