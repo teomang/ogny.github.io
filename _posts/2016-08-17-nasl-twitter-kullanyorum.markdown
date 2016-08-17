@@ -12,7 +12,7 @@ date: 2016-08-17T16:18:50+03:00
 
 Hobilerimi önemsiyorum. Herhangi bir şey uğruna, onlardan vazgeçmek durumunda
 kalmak istemiyorum.  Son dönemde, telefonda internetsiz kaldım; bu sebepten boş
-zamanlarımda twitter'a bakma sürem daraldı.  aha kısa zamanda twitter'da takip
+zamanlarımda twitter'a bakma sürem daraldı. Kısa zamanda twitter'da takip
 ettiklerimden haberdar olabilmek için bir çözüm bulmam gerekiyordu.  T twitter
 istemcisini kullanma alışkanlığı edindim ve bunu biraz geliştirdim. Bu yazıda
 bahsetmek istiyorum.
@@ -32,7 +32,7 @@ görüntüleyebiliyoruz. Bundan yararlanarak aşağıdaki gibi bir betik oluştu
 source $HOME/.profile
 TARIH=$(date +"%Y-%m-%d_%H:%M")
 DOSYA="$HOME/gunun_tweetleri/$TARIH"
-t="/home/orkung/.rvm/gems/ruby-2.1.1/bin/t"
+t="$HOME/.rvm/gems/ruby-2.1.1/bin/t"
 touch $DOSYA 
 $t list timeline @orkungunay/hobi -n 15 > $DOSYA; \
 $t list timeline @orkungunay/sanat -n 10 >> $DOSYA; \
@@ -48,7 +48,6 @@ bu betiği cronjob'la günde 3 kere toplayacak şekilde düzenledim.
 ```bash
 0 9,13,17 * * * <betik_adı>  >/dev/null 2>&1
 ```
-
 
 **Not**: betiğe profil dosyasını koymazsanız, cronjob'ta aşağıdaki hata oluşuyor.
 ```bash
