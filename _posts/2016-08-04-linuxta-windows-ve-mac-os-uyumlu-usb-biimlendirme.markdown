@@ -11,11 +11,13 @@ date: 2016-08-04T15:43:22+03:00
 ---
 
 #### Ortam: Debian 8.5 Jessie
+
 #### Gereksinimler:
 
 ```bash
 sudo apt install -y exfat-fuse exfat-utils
 ```
+
 #### Yapılandırma:
 
 ```bash
