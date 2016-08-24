@@ -8,6 +8,7 @@ tags: [parted]
 image:
   feature:
 date: 2016-08-04T15:43:22+03:00
+comments: true
 ---
 
 #### Ortam: Debian 8.5 Jessie
