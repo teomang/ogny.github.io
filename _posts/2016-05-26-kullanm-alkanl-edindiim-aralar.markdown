@@ -8,10 +8,12 @@ tags: [tools]
 image:
   feature:
 date: 2016-05-26T11:14:22+03:00
+comments: true
 ---
 
 #### Android'de:
-* Clockworkmod Pomodoro 
+* <del>Clockworkmod Pomodoro</del>
+* Toggl
 * Nova Launcher 
 * Audible 
 * Spotify 
