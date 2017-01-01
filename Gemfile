@@ -7,6 +7,6 @@ gem 'jekyll'
 gem 'jekyll-sitemap'
 #gem 'octopress', '~> 3.0.0.rc.12'
 gem 'octopress' 
-gem 'github-pages'
-#gem 'github-pages', versions['github-pages']
+#gem 'github-pages'
+gem 'github-pages', versions['github-pages']
 gem 'pygments.rb'
