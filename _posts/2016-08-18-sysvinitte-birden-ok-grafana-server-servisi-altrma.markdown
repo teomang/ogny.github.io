@@ -16,19 +16,19 @@ comments: true
 * grafana-2.5.0-1
 
 ```bash
-mkdir /var/lib/grafana_yeni
-mkdir /var/log/grafana_yeni
-cp -r /etc/grafana /etc/grafana_yeni
-cp -r /usr/share/grafana /usr/share/grafana_yeni
-cp /etc/init.d/grafana-server /etc/init.d/grafana-server_yeni
-cp /usr/sbin/grafana-server /usr/sbin/grafana-server_yeni
-cp /etc/sysconfig/grafana-server /etc/sysconfig/grafana-server_yeni
+mkdir /var/lib/grafana_ver2
+mkdir /var/log/grafana_ver2
+cp -r /etc/grafana /etc/grafana_ver2
+cp -r /usr/share/grafana /usr/share/grafana_ver2
+cp /etc/init.d/grafana-server /etc/init.d/grafana-server_ver2
+cp /usr/sbin/grafana-server /usr/sbin/grafana-server_ver2
+cp /etc/sysconfig/grafana-server /etc/sysconfig/grafana-server_ver2
 
-# Konfigurasyon dosyalarındaki parametler yeni uzantıya göre güncellenir
+# Konfigurasyon dosyalarındaki parametler ver2 uzantıya göre güncellenir
 # ek olarak, grafana.ini dosyasindaki port degistirilir.
-vim /etc/grafana_yeni/grafana.ini \
+vim /etc/grafana_ver2/grafana.ini \
 /etc/sysconfig/grafana-server /etc/init.d/grafana-server
 
-/etc/init.d/grafana-server_yeni start
-chkconfig grafana-server_yeni on
+/etc/init.d/grafana-server_ver2 start
+chkconfig grafana-server_ver2 on
 ```
